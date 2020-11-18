@@ -1,9 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 20:54:35 CST 2020
-@default-maven-master-repository-https\://gitee.com/leixun/repository/raw/master/.lastUpdated=1605703927194
-https\://gitee.com/leixun/repository/raw/master//.error=Could not transfer artifact com.gitee.mie\:knife-util\:pom\:1.0-SNAPSHOT from/to maven-master-repository (https\://gitee.com/leixun/repository/raw/master//)\: Access denied to\: https\://gitee.com/leixun/repository/raw/master//com/gitee/mie/knife-util/1.0-SNAPSHOT/knife-util-1.0-SNAPSHOT.pom
-https\://gitee.com/miemiemei/repository/raw/master/.error=Could not transfer artifact com.gitee.mie\:knife-util\:pom\:1.0-SNAPSHOT from/to maven-master-repository (https\://gitee.com/miemiemei/repository/raw/master/)\: Access denied to\: https\://gitee.com/miemiemei/repository/raw/master/com/gitee/mie/knife-util/1.0-SNAPSHOT/knife-util-1.0-SNAPSHOT.pom
-https\://gitee.com/leixun/repository/raw/master/.error=Could not transfer artifact com.gitee.mie\:knife-util\:pom\:1.0-SNAPSHOT from/to maven-master-repository (https\://gitee.com/leixun/repository/raw/master/)\: Access denied to\: https\://gitee.com/leixun/repository/raw/master/com/gitee/mie/knife-util/1.0-SNAPSHOT/knife-util-1.0-SNAPSHOT.pom
-@default-maven-master-repository-https\://gitee.com/leixun/repository/raw/master//.lastUpdated=1605703922604
-https\://raw.github.com/shanmie/repository/master/.lastUpdated=1605704075218
-@default-maven-master-repository-https\://gitee.com/miemiemei/repository/raw/master/.lastUpdated=1605703941256
+#Wed Nov 18 21:12:43 CST 2020
+https\://raw.github.com/shanmie/maven-repositorys/master/.lastUpdated=1605705163185
+https\://raw.github.com/shanmie/repository/master/.lastUpdated=1605705142560
+https\://raw.github.com/shanmie/repository/master/.error=

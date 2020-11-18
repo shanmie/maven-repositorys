@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.gitee.mie</groupId>
-  <artifactId>knife-util</artifactId>
+  <artifactId>knife-power</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20201118140216</lastUpdated>
+    <lastUpdated>20201118140147</lastUpdated>
   </versioning>
 </metadata>
